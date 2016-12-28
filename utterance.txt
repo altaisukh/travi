@@ -1,0 +1,31 @@
+SafetyIntent {CountryOne}
+SafetyIntent is {CountryOne} safe
+
+SafetyIntent travel warnings for {CountryOne}
+SafetyIntent travel advisory for {CountryOne}
+
+SafetyIntent are there state department warnings for {CountryOne}
+SafetyIntent are there state department advisories for {CountryOne}
+
+SafetyIntent is there a travel advisory for {CountryOne}
+SafetyIntent {CountryOne} travel warnings
+SafetyIntent {CountryOne} travel advisory
+
+EmbassyIntent where is the embassy
+EmbassyIntent where is the embassy in {CountryTwo}
+EmbassyIntent how do I contact the embassy
+EmbassyIntent how do I contact the embassy in {CountryTwo}
+
+AlertsIntent how do I get alerts about {CountryThree}
+AlertsIntent how do I get updates about {CountryThree}
+AlertsIntent alert me about {CountryThree}
+
+FullReportIntent full report
+FullReportIntent give me the full report
+FullReportIntent yes
+FullReportIntent yes please
+FullReportIntent yeah
+
+RestartIntent no
+RestartIntent not now
+RestartIntent nope

@@ -1,0 +1,46 @@
+{
+  "intents": [
+    {
+      "intent": "SafetyIntent",
+      "slots": [
+        {
+          "name": "CountryOne",
+          "type": "LIST_OF_COUNTRIES"
+        }
+      ]
+    },
+    {
+      "intent": "EmbassyIntent",
+      "slots": [
+        {
+          "name": "CountryTwo",
+          "type": "LIST_OF_COUNTRIES"
+        }
+      ]
+    },
+    {
+      "intent": "AlertsIntent",
+      "slots": [
+        {
+          "name": "CountryThree",
+          "type": "LIST_OF_COUNTRIES"
+        }
+      ]
+    },
+    {
+      "intent": "FullReportIntent"
+    },
+    {
+      "intent": "RestartIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+        {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}
